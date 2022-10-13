@@ -1,4 +1,6 @@
-# Three.js Lights
+# Three.js Lights Example
+
+![](images/lights_Example.gif)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
